@@ -65,12 +65,13 @@ To become an **AI Engineer / Software Engineer** building intelligent products p
 
 # 🌍 Portfolio
 
+
 🌐 Portfolio
+https://portfolio-eight-sand-82.vercel.app/
 
 
 📄 Resume
-
-
+https://drive.google.com/file/d/1Yt0KaxXzOaWXpLxKc-eFpydrpxk4Kqrc/view?usp=drivesdk
 ---
 
 # 🛠 Tech Stack
