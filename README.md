@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm N Viswa Vardhan Reddy</h1>
+<h1 align="center">Hi 👋, I'm C ABHINAY KUMAR</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;AI+Engineer;Data+Scientist;Machine+Learning+Enthusiast;Building+AI-Powered+Applications;Always+Learning+Something+New+🚀" />
