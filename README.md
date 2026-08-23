@@ -35,7 +35,7 @@ Artificial Intelligence & Data Science Undergraduate | Full Stack Developer | AI
 # 🚀 About Me
 
 🎓 B.Tech in Artificial Intelligence & Data Science  
-🏫 Amrita Vishwa Vidyapeetham, Bengaluru
+🏫 MOTHER THERESA INSTITUITIONS OF ENGINEERING AND TECHNOLOGY, palamaner
 
 💡 Passionate about building intelligent systems combining
 
