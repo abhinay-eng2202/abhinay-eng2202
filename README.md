@@ -64,17 +64,36 @@ To become an **AI Engineer / Software Engineer** building intelligent products p
 ---
 
 # 🌍 Portfolio
-
-
-🌐 Portfolio
 https://portfolio-eight-sand-82.vercel.app/
 
 
 📄 Resume
-https://drive.google.com/file/d/1Yt0KaxXzOaWXpLxKc-eFpydrpxk4Kqrc/view?usp=drivesdk
+
+**https://drive.google.com/file/d/1Yt0KaxXzOaWXpLxKc-eFpydrpxk4Kqrc/view?usp=drivesdk
+🔗 **Linkdein **
+https://www.linkedin.com/in/abhinay-kumar-b126663a2
+
 ---
 
 # 🛠 Tech Stack
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" alt="Render">
+
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
+
+<img src="https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7" alt="Netlify">
+
+<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
+
+<img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud">
+
+
+
+<img src="https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black" alt="Apache Spark">
+<img src="https://img.shields.io/badge/Apache%20Kafka-000000?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Apache Kafka">
+<img src="https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black" alt="Apache Hive">
+<img src="https://img.shields.io/badge/Nodemon-323330?style=for-the-badge&logo=nodemon&logoColor=BBDEAD" alt="Nodemon">
+<img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
 
 ## 👨‍💻 Languages
 
@@ -146,7 +165,7 @@ Python • PyTorch • FastAPI • MongoDB • Next.js
 - LLM Reward Shaping
 - Analytics Dashboard
 
-🔗
+
 
 
 ---
